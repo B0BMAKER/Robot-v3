@@ -19,7 +19,7 @@ previewType: 'PHOTO',
 mediaType: 1,
 renderLargerThumbnail: true,
 thumbnail: gam1, 
-sourceUrl: `https://youtube.com/c/PakTzy`}}, 
+sourceUrl: `https://vm.tiktok.com/ZSLRqpbwX/`}}, 
 text: text1 })
 }
 

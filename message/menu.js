@@ -7,21 +7,20 @@ return `
 ║- Script Private
 │🎭 Name : ${m.pushName}
 ║▬▭▬▭▬▭▬▭▬▭
-│🎭 Creator : Rehan Official
-║🎭 Owner : Rehan Betmut
+│🎭 Creator : Trevorx Official
+║🎭 Owner : Aisyah Betmut
 │🎭 Owner Number : Private
 ║🎭 Prefix : MULTI
-│▬▭「 𝐙𝐘𝐑𝐄𝐍𝐍 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘️ 」▭▬
+│▬▭「 TREVORX 」▭▬
 ║
-│ Yt : https://youtube.com/@rehanxplo1t650
-║ Instagram : https://instagram.com/rhann006?igshid=ZGUzMzM3NWJiOQ==
-│ Tik Tok : tiktok.com/@raihanekanugroho
+│ 
+│ Tik Tok : https://vm.tiktok.com/ZSLRqnjoG/
 ║
 ┗━━━━━━━━━━━━━━━━━━⬣
 ╔─═─═⊱ *「 JOIN GROUP 」* ─═─═⬣
 │┏⊱
-║⿻ *Group V1!!〽️ : https://chat.whatsapp.com/FiprZLCoYAH9yDtptInPGw
-│⿻ *Group V2!!〽️ : https://chat.whatsapp.com/GuvzVe59IJo8bQziGtHWEX
+║⿻ *Group V1!!〽️ : https://chat.whatsapp.com/GJHBokktyNDH8S8RwWA1Ng
+│⿻ *Group V2!!〽️ : https://chat.whatsapp.com/HrG8dKUwik75kgrayU3B69
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣
 ┏━━━━━━━━━━━━━━━━━━⬣
@@ -823,7 +822,7 @@ return `
 ┃ 🔥
 ┃ 🔥 
 ┃ 🔥 
-┗━━⬣  ⿻ Rehan Betmut⿻
+┗━━⬣  ⿻ Aisyah Betmut⿻
 `
 }
 
